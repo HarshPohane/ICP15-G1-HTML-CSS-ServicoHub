@@ -9,8 +9,10 @@
 }
 
 .logo {
-    font-size: 22px;
+    font-size: 50px;
     font-weight: bold;
+    height: 80%;
+    weight:80%;
 }
 
 .nav-links a {
