@@ -64,10 +64,14 @@ border-radius:10px;
 .card ul {
   padding-left: 18px;
   margin: 10px 0;
+  text-align: left;
 }
 
 .card button {
   margin-top: auto;
+  padding: 12px;
+  border-radius: 25px;
+  width: 100%; 
 }
 /* Button */
 button{
