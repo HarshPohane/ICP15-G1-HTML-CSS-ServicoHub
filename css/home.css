@@ -33,7 +33,7 @@ padding:60px;
 /* Services Section */
 .services{
 display:grid;
-grid-template-columns: repeat(2, 240px);
+grid-template-columns: repeat(2, 1fr);
 
 justify-content:center;
 gap:80px;
@@ -44,8 +44,8 @@ padding:40px;
 /* Card Design */
 .card{
 background:white;
-width:220px;
-padding:15px;
+width: 100%; 
+padding:100px;
 text-align:center;
 border-radius:10px;
 box-shadow:0 0 10px gray;
@@ -60,13 +60,18 @@ width:100%;
 border-radius:10px;
 }
 
+
 .card ul {
   padding-left: 18px;
   margin: 10px 0;
+  text-align: left;
 }
 
 .card button {
   margin-top: auto;
+  padding: 12px;
+  border-radius: 25px;
+  width: 90%; 
 }
 /* Button */
 button{
@@ -79,6 +84,3 @@ margin-top:10px;
 border-radius: 30px;
 }
 
-button:hover{
-background:;
-}
