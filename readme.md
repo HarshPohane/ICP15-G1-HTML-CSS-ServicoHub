@@ -34,6 +34,12 @@ It helps users find and book trusted local service professionals like **Electric
 - AC Repair
 - Carpenter
 
+## contributors :
+<a href="https://github.com/HarshPohane/ICP15-G1-HTML-CSS-ServicoHub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HarshPohane/ICP15-G1-HTML-CSS-ServicoHub" />
+
+</a>
+
 ## Project Structure
 
 
@@ -55,7 +61,4 @@ servico-hub/
 └── assets/
     └── images/
     
-    ## contributors :
-<a href="https://github.com/HarshPohane/ICP15-G1-HTML-CSS-ServicoHub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HarshPohane/ICP15-G1-HTML-CSS-ServicoHub/graphs/contributors" />
-</a>
+    
