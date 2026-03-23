@@ -90,7 +90,7 @@
   width: 100%;
   border-radius: calc(var(--radius) - 2px);
   object-fit: cover;
-  height: 400px;
+  height: 500px;
 }
 .card-img{
   width: 100%;
@@ -126,33 +126,10 @@
   padding: 0.6rem 0.9rem;
   font-size: 0.95rem;
 }
-
-.site-footer {
-  padding: 2.5rem 0;
-  border-top: 1px solid var(--border);
-  background: #ffffff;
+.products{
+    background-color:  #174ea6;;
 }
 
-.site-footer .footer-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.25rem;
-}
-
-.site-footer h3 {
-  margin-top: 0;
-  font-size: 1.05rem;
-}
-
-.site-footer p,
-.site-footer a {
-  font-size: 0.95rem;
-  color: var(--muted);
-}
-
-.site-footer a:hover {
-  color: var(--text);
-}
 
 /* Tablet (768px - 1024px) */
 @media (max-width: 1024px) {
