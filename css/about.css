@@ -117,7 +117,7 @@
   font-size: 0.95rem;
 }
 .products{
-    background-color:  #174ea6;
+    background-color:  #dbe5f5;
     height: 320px;
 }
 .line-spacing{
@@ -125,7 +125,7 @@
   text-decoration: none;
 }
 .heading{
-   color:white;
+   color:black;
    text-align: center;
 }
 /* ================= MOBILE (up to 768px) ================= */
