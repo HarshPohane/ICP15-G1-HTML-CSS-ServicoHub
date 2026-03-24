@@ -3,7 +3,7 @@
 Servico Hub is a home service website project built using **HTML** and **CSS**.  
 It helps users find and book trusted local service professionals like **Electricians, Plumbers, AC Repair Technicians, and Carpenters**.
 
-![output](./images/output.jpg)
+![output](./images/output-(1)jpg)
 ## Features
 
 - Clean and responsive website design

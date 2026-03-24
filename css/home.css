@@ -10,7 +10,7 @@ body {
   color: #333;
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: weight;
   font-style: normal;
 }
 
@@ -108,9 +108,9 @@ body {
 .card {
   background: white;
   padding: 20px;
-  border-radius: 15px;
+  border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-  text-align: left;
+  text-align: center;
 }
 
 .card .icon {
@@ -124,7 +124,7 @@ body {
 
 .card p {
   font-size: 14px;
-  color: gray;
+  color:gray;
   margin-bottom: 10px;
 }
 
@@ -278,6 +278,7 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+  align-items: start;
 }
 
 .trust-card {
@@ -285,6 +286,7 @@ body {
   padding: 25px;
   border-radius: 15px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  align-items: start;
 }
 
 .trust-card .icon {
